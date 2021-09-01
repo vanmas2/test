@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "3R7756HZLN.comteam.remote.dev",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
